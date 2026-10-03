@@ -62,7 +62,7 @@ Financial modeling · Budgeting · Rolling forecasting · Driver-based planning 
 
 ## File
 
-The completed Excel model is included in this repository as **FP&A_Project_1_Portfolio_Ready.xlsx**.
+The completed Excel model is included in this repository as **FP&A_Project_1_Portfolio_Ready (1).xlsx**.
 
 ## Author
 
